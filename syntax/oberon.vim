@@ -36,6 +36,7 @@ syn keyword OberonTodo         contained TODO FIXME DEBUG
 " Strings, Number, Comments
 syn region OberonString  start=+L\='+ end=+'+
 syn region OberonString  start=+L\="+ end=+"+
+syn match  OberonNumber  "\<[0-9]\+\>"
 syn match  OberonNumber  "\<[0-9][0-9A-F]*[XHR]\>"
 syn match  OberonNumber  "\<[0-9]\+\.[0-9]*\([ED][-+]\?[0-9]\+\)\?\>"
 syn region OberonComment start="(\*" end="\*)" contains=OberonComment,OberonTodo fold
