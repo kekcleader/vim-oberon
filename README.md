@@ -1,7 +1,7 @@
 `oberon.vim` is a simple syntax file to get a colored view
 of Oberon modules (`*.Mod` files).
 
-*See Russian below // На русском — ниже*
+*На русском — ниже | See in Russian below*
 
 Usage
 =====
@@ -27,7 +27,8 @@ ______
 Использование
 =============
 
-1. Поместите oberon.vim в каталог синтаксиса Vim. Обычно это ~/.vim/syntax. Если директория не существует, создайте ее.
+1. Поместите `oberon.vim` в каталог с синтаксическими файлами Vim.
+Обычно это `~/.vim/syntax`. Если директория не существует, создайте её.
 
 2. Впишите следующий текст где-нибудь в файле `.vimrc`:
 ```
