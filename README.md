@@ -3,7 +3,7 @@ of Oberon modules (`*.Mod` files).
 
 ![Vim Oberon syntax highlight](https://free.oberon.org/images/oberon_vim_syntax.png)
 
-*На русском — ниже | See in Russian below*
+*ПО-РУССКИ — СМ. НИЖЕ*
 
 Usage
 =====
