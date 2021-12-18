@@ -1,4 +1,4 @@
-`oberon.vim` is a simple syntax file to get a colored view
+oberon.vim is a simple syntax file to get a colored view
 of Oberon modules (`*.Mod` files).
 
 ![Vim Oberon syntax highlight](https://free.oberon.org/images/oberon_vim_syntax.png)
@@ -19,12 +19,13 @@ au BufNewFile,BufRead *.cp set filetype=oberon
 ```
 
 The `.vimrc` file is usually located in your home directory.
-I.e. use the command `vim ~/.vimrc`.
+
+You can use the command `vim ~/.vimrc`.
 
 ______
 
-`oberon.vim` — это файл для подсветки ситаксиса языка Оберон
-в программе Vim (файлы `*.Mod`).
+oberon.vim реализует подсветку ситаксиса для языка Оберон
+(файлы `*.Mod`) в редакторе Vim.
 
 Использование
 =============
@@ -39,4 +40,5 @@ au BufNewFile,BufRead *.cp set filetype=oberon
 ```
 
 Файл `.vimrc` обычно находится в вашем домашнем каталоге.
+
 Можно воспользовать командой `vim ~/.vimrc`.
