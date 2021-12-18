@@ -1,6 +1,8 @@
 `oberon.vim` is a simple syntax file to get a colored view
 of Oberon modules (`*.Mod` files).
 
+![Vim Oberon syntax highlight](https://free.oberon.org/images/oberon_vim_syntax.png)
+
 *На русском — ниже | See in Russian below*
 
 Usage
